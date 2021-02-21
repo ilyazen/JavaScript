@@ -1,0 +1,26 @@
+.main {
+   height: 500px;
+   width: 500px;
+   
+   margin: 0 auto;
+}
+.cell {
+   color: brown;
+   background-color: wheat;
+   height: 50px;
+   width: 50px; 
+   border: 1px solid black;
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+    font-size: 200%; 
+}
+.row{
+   display: flex;
+   font-size: 16px;
+}
+.white{
+   color: white;
+}
+.black {
+   color: black;
+}
