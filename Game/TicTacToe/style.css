@@ -1,0 +1,18 @@
+.field {
+   height: 200px;
+   width: 200px;
+   margin: 0 auto;
+   display: flex;
+
+}
+.cell {
+   color: brown;
+   background-color: wheat;
+   height: 50px;
+   width: 50px; 
+   border: 1px solid black;
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+    font-size: 200%; 
+}
+
