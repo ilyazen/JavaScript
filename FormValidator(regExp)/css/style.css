@@ -1,0 +1,12 @@
+.bgred {
+   border: 1px solid red;
+   
+}
+.bgreen{
+   border: 1px solid green;
+   
+}
+.inpt {
+   display: flex;
+   width: 100%;
+}
