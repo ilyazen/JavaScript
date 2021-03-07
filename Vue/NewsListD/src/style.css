@@ -1,0 +1,14 @@
+.item-wrapper {
+   display: flex;
+   justify-content: space-between;
+}
+.news-item {
+   margin-bottom: 10px;
+}
+.add-news-btn {
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+.add-news {
+   margin-bottom: 10px;
+}
