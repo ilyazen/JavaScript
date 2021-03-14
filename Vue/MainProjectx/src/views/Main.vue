@@ -2,8 +2,8 @@
    <TheNavbar/>
    <h3 @click="show">Текущие проекты по VUE:</h3>
    <div class="main-body">
-         <div class="card main-item" style="width:250px" v-for="project in projects" :key="project.id">
-         <img :src='project.imgUrl' class="card-img-top" alt="...">
+         <div class="card main-item m-1" style="width:250px" v-for="project in projects" :key="project.id">
+         <img :src='project.imgUrl' class="card-img-top"  alt="...">
          <div class="card-body">
           <h5 class="card-title">{{ project.name }}</h5>
           <p class="card-text">{{ project.text }}</p>
